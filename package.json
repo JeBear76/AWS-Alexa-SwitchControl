@@ -1,0 +1,19 @@
+{
+  "name": "aws-alexa-switchcontrol",
+  "version": "1.0.0",
+  "description": "Switch Control \u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeBear76/AWS-Alexa-SwitchControl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeBear76/AWS-Alexa-SwitchControl/issues"
+  },
+  "homepage": "https://github.com/JeBear76/AWS-Alexa-SwitchControl#readme"
+}
